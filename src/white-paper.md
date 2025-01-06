@@ -1,5 +1,7 @@
 # White Paper Boilerplate
 
+Version 1.0.0
+
 By James Robert Huggins Ngo, January 6, 2025
 
 ## Abstract
