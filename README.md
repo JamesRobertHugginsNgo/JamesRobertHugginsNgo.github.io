@@ -15,6 +15,10 @@
 - [page-width](https://jamesroberthugginsngo.github.io/page-width/)
 - [tab-list](https://jamesroberthugginsngo.github.io/tab-list/)
 
+### Markdown
+
+- [white-paper](documents/white-paper.md)
+
 ## White Papers
 
 > A white paper is a report or guide that informs readers concisely about a complex issue and presents the issuing body's philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.
