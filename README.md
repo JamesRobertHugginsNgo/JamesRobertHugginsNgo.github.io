@@ -6,7 +6,7 @@
 >
 > -- https://en.wikipedia.org/wiki/Boilerplate_code
 
-- [page-width](/page-width)
+- [page-width](https://jamesroberthugginsngo.github.io/page-width/)
 
 ## Github
 
