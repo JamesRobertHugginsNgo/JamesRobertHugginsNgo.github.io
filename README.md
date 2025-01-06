@@ -8,5 +8,5 @@
 
 ## Github
 
-- [github](https://github.com/JamesRobertHugginsNgo/JamesRobertHugginsNgo.github.io)
-- [github page](https://jamesroberthugginsngo.github.io)
+- [Repo](https://github.com/JamesRobertHugginsNgo/JamesRobertHugginsNgo.github.io)
+- [Page](https://jamesroberthugginsngo.github.io)
