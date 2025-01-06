@@ -1,5 +1,22 @@
 # James Robert Huggins Ngo
 
+## Boilerplates
+
+> In computer programming, boilerplate code, or simply boilerplate, are sections of code that are repeated in multiple places with little to no variation. When using languages that are considered verbose, the programmer must write a lot of boilerplate code to accomplish only minor functionality.
+>
+> -- https://en.wikipedia.org/wiki/Boilerplate_code
+
+You can also view the [stars boilerplate list](https://github.com/stars/JamesRobertHugginsNgo/lists/boilerplate).
+
+### CSS
+
+- [horizontal-list](https://github.com/JamesRobertHugginsNgo/horizontal-list)
+- [left-centre-right](https://github.com/JamesRobertHugginsNgo/left-centre-right)
+- [left-right](https://github.com/JamesRobertHugginsNgo/left-right)
+- [no-collapse](https://github.com/JamesRobertHugginsNgo/no-collapse)
+- [tab-list](https://github.com/JamesRobertHugginsNgo/tab-list)
+- [page-width](https://github.com/JamesRobertHugginsNgo/page-width)
+
 ## Alternate Views
 
 - [View in github](https://github.com/JamesRobertHugginsNgo/JamesRobertHugginsNgo.github.io)
