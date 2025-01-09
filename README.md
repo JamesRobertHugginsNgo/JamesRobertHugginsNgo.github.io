@@ -21,8 +21,8 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 - [left-centre-right](https://github.com/JamesRobertHugginsNgo/left-centre-right)
 - [left-right](https://github.com/JamesRobertHugginsNgo/left-right)
 - [no-collapse](https://github.com/JamesRobertHugginsNgo/no-collapse)
-- [tab-list](https://github.com/JamesRobertHugginsNgo/tab-list)
 - [page-width](https://github.com/JamesRobertHugginsNgo/page-width)
+- [tab-list](https://github.com/JamesRobertHugginsNgo/tab-list)
 
 ### JavaScript
 
