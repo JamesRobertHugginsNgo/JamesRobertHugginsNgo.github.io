@@ -26,7 +26,12 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 
 ### JavaScript
 
-TODO
+- [field-validation](https://github.com/JamesRobertHugginsNgo/field-validation)
+
+## Blog
+
+- [Boilerplate System v1.0](doc/boilerplate-system.md)\
+2025-01-09
 
 ## Alternate Views
 
