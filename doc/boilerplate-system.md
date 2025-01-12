@@ -39,11 +39,15 @@ Avoid adding unrelated code to boilerplate code.
 
 	/* CONDITIONAL: Only needed for elements with "disabled" attribute */
 	&[disabled] { ... }
-	/* CONDITIONAL END */
 
 	/* CONDITIONAL: Only needed for anchor element */
-	&:is(a) { ... }
-	/* CONDITIONAL END */
+	&:is(a) {
+		...
+
+		/* CONDITIONAL BEGIN: Only needed for specific use case */
+		...
+		/* CONDITIONAL END */
+	}
 }
 ```
 
