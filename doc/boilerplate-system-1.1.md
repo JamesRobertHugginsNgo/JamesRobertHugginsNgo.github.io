@@ -21,7 +21,7 @@ Our boilerplate code should be short, simple, customizable, modular, and shareab
 
 	## Boilerplate Comment
 
-Add a “BOILERPLATE” comment at the file’s top to indicate it’s part of the boilerplate system.
+Add a "BOILERPLATE" comment at the file’s top to indicate it’s part of the boilerplate system.
 
 ``` CSS
 /* BOILERPLATE */
@@ -29,7 +29,7 @@ Add a “BOILERPLATE” comment at the file’s top to indicate it’s part of t
 
 ## Conditional Comment
 
-Add “CONDITIONAL” comments to indicate optional code sections for specific conditions. Leave them in or remove them when not needed to reduce bloat.
+Add "CONDITIONAL" comments to indicate optional code sections for specific conditions. Leave them in or remove them when not needed to reduce bloat.
 
 Avoid adding unrelated code to boilerplate code.
 
@@ -54,17 +54,27 @@ Avoid adding unrelated code to boilerplate code.
 
 ## To Do Comment
 
-Add “TODO” comments for missing codes to be added by the developer.
+Add "TODO" comments for missing codes to be added by the developer.
 
 ``` CSS
 /* TODO: Add missing part */
 ```
 
+## Placeholder Comment
+
+Add "PLACEHOLDER" comments for sample codes to be replaced by the developer.
+
+``` CSS
+/* PLACEHOLDER BEGIN: Replace missing part */
+...
+/* PLACEHOLDER END */
+```
+
 ## Original Comment
 
-When using or extending boilerplate, include an “ORIGINAL” comment with the permalink URL to the original code. This lets the next developer trace your code’s origin. When using a git repository, include the git tag or commit id to target a specific code version.
+When using or extending boilerplate, include an "ORIGINAL" comment with the permalink URL to the original code. This lets the next developer trace your code’s origin. When using a git repository, include the git tag or commit id to target a specific code version.
 
-You can add multiple “ORIGINAL” comments to provide a link to a GitHub web page and its raw version. The raw version aids in potential automation.
+You can add multiple "ORIGINAL" comments to provide a link to a GitHub web page and its raw version. The raw version aids in potential automation.
 
 This isn’t needed when creating original boilerplate.
 
