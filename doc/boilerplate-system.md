@@ -19,7 +19,7 @@ My boilerplate system revolves around simple, easy-to-use boilerplate codes.
 
 Our boilerplate code should be short, simple, customizable, modular, and shareable, covering a specific function. It should encourage developers to learn its workings and customize it for their use cases.
 
-	## Boilerplate Comment
+## Boilerplate Comment
 
 Add a “BOILERPLATE” comment at the file’s top to indicate it’s part of the boilerplate system.
 
