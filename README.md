@@ -21,8 +21,8 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 - [left-centre-right](https://github.com/JamesRobertHugginsNgo/left-centre-right)
 - [left-right](https://github.com/JamesRobertHugginsNgo/left-right)
 - [no-collapse](https://github.com/JamesRobertHugginsNgo/no-collapse)
-- [tab-list](https://github.com/JamesRobertHugginsNgo/tab-list)
 - [page-width](https://github.com/JamesRobertHugginsNgo/page-width)
+- [tab-list](https://github.com/JamesRobertHugginsNgo/tab-list)
 
 ### JavaScript
 
@@ -30,7 +30,9 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 
 ## Blog
 
-- [Boilerplate System v1.0](doc/boilerplate-system.md)\
+- [Boilerplate System v1.1](doc/boilerplate-system-1.1.md)\
+2025-01-11
+- [Boilerplate System v1.0](doc/boilerplate-system-1.0.md)\
 2025-01-09
 
 ## Alternate Views
