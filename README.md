@@ -27,6 +27,7 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 ### JavaScript
 
 - [field-validation](https://github.com/JamesRobertHugginsNgo/field-validation)
+- [resolve-ref.js](https://github.com/JamesRobertHugginsNgo/resolve-ref.js)
 - [web-component](https://github.com/JamesRobertHugginsNgo/web-component)
 
 ## Blog
