@@ -27,6 +27,7 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 ### JavaScript
 
 - [field-validation](https://github.com/JamesRobertHugginsNgo/field-validation)
+- [make-dynamic-path-regex](https://github.com/JamesRobertHugginsNgo/make-dynamic-path-regex)
 - [resolve-ref](https://github.com/JamesRobertHugginsNgo/resolve-ref)
 - [web-component](https://github.com/JamesRobertHugginsNgo/web-component)
 
