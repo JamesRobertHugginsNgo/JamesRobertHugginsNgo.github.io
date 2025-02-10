@@ -33,6 +33,7 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 #### NodeJS
 
 - [get-ipv4](https://github.com/JamesRobertHugginsNgo/get-ipv4)
+- [prompt](https://github.com/JamesRobertHugginsNgo/prompt)
 
 ## Blog
 
