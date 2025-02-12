@@ -1,6 +1,7 @@
 # James Robert Huggins Ngo
 
-Visit [my github overview page](https://github.com/JamesRobertHugginsNgo).
+[![Static Badge](https://img.shields.io/badge/GitHub%20Repo-6e5494)](https://github.com/JamesRobertHugginsNgo/JamesRobertHugginsNgo.github.io)
+[![Static Badge](https://img.shields.io/badge/GitHub%20Page-4078c0)](https://jamesroberthugginsngo.github.io)
 
 ## Boilerplates
 
@@ -26,6 +27,7 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 
 ### JavaScript
 
+- [accept-list](https://github.com/JamesRobertHugginsNgo/accept-list)
 - [field-validation](https://github.com/JamesRobertHugginsNgo/field-validation)
 - [make-dynamic-path-regex](https://github.com/JamesRobertHugginsNgo/make-dynamic-path-regex)
 - [resolve-ref](https://github.com/JamesRobertHugginsNgo/resolve-ref)
@@ -42,8 +44,3 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 2025-01-11
 - [Boilerplate System v1.0](doc/boilerplate-system-1.0.md)\
 2025-01-09
-
-## Alternate Views
-
-- [View in github](https://github.com/JamesRobertHugginsNgo/JamesRobertHugginsNgo.github.io)
-- [View in github page](https://jamesroberthugginsngo.github.io)
