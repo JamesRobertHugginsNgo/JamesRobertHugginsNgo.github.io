@@ -2,11 +2,15 @@
   "name": "jamesroberthugginsngo.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "README.md",
+  "main": "./README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "James Robert Huggins Ngo",
+  "author": {
+    "name": "James Robert Huggins Ngo",
+    "email": "jamesroberthugginsngo@gmail.com",
+    "url": "https://jamesroberthugginsngo.github.io"
+  },
   "license": "MIT"
 }
