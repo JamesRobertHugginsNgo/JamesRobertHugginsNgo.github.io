@@ -9,8 +9,6 @@
 >
 > -- https://en.wikipedia.org/wiki/Boilerplate_code
 
-You can also view the [stars boilerplate list](https://github.com/stars/JamesRobertHugginsNgo/lists/boilerplate).
-
 ### CSS
 
 - [field](https://github.com/JamesRobertHugginsNgo/field)
@@ -44,7 +42,7 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 
 ## Blog
 
-- [Boilerplate System v1.1](doc/boilerplate-system-1.1.md)\
+- [Boilerplate System v1.1](doc/boilerplate-system-1.1.md)  
 2025-01-11
-- [Boilerplate System v1.0](doc/boilerplate-system-1.0.md)\
+- [Boilerplate System v1.0](doc/boilerplate-system-1.0.md)  
 2025-01-09
