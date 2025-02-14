@@ -38,6 +38,10 @@ You can also view the [stars boilerplate list](https://github.com/stars/JamesRob
 - [get-ipv4](https://github.com/JamesRobertHugginsNgo/get-ipv4)
 - [prompt](https://github.com/JamesRobertHugginsNgo/prompt)
 
+## Applications
+
+- [get-boilerplate](https://github.com/JamesRobertHugginsNgo/get-boilerplate)
+
 ## Blog
 
 - [Boilerplate System v1.1](doc/boilerplate-system-1.1.md)\
