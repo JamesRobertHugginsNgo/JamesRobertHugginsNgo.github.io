@@ -26,6 +26,7 @@
 ### JavaScript
 
 - [accept-list](https://github.com/JamesRobertHugginsNgo/accept-list)
+- [eva-switch](https://github.com/JamesRobertHugginsNgo/eva-switch)
 - [field-validation](https://github.com/JamesRobertHugginsNgo/field-validation)
 - [make-dynamic-path-regex](https://github.com/JamesRobertHugginsNgo/make-dynamic-path-regex)
 - [resolve-ref](https://github.com/JamesRobertHugginsNgo/resolve-ref)
