@@ -1,5 +1,11 @@
 # James Robert Huggins Ngo
 
+I am a professional web developer, an aspiring writer and a systems thinker.
+
+I would mostly write about my ideas. I have ideas about web technologies and implementations, world buildings and short stories, fixing existing films, things that could be patented like megastructures and innovative transportation systems, as well as philosophies and even work structures.
+
+I like thinking with ai, walking and reading comics.
+
 ## Blog
 
 ### June 28, 2026
