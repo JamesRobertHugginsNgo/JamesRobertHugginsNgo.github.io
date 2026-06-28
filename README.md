@@ -4,6 +4,8 @@
 
 ### June 28, 2026
 
+- [How Volume Was Built on Game Thinking](blog/2026-06-28-04-04-volume-three-thinking.md)  
+04:04 AM
 - [Three Ways People Think About the World](blog/2026-06-28-03-56-three-thinking.md)  
 03:56 AM
 - [Volume](blog/2026-06-28-03-26-volume.md)  
