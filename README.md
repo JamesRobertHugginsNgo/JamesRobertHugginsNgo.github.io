@@ -4,6 +4,8 @@
 
 ### June 28, 2026
 
+- [Three Ways People Think About the World](blog/2026-06-28-03-56-three-thinking.md)  
+03:56 AM
 - [Volume](blog/2026-06-28-03-26-volume.md)  
 03:26 AM
 
