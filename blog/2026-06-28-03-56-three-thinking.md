@@ -1,9 +1,11 @@
-# 3 Thinking Types: Game, Merit and Present
+# Three Ways People Think About the World
 
-I identified 3 types of thinking, game, merit and present.
+I've been turning this over in my head for a while — I think there are three fundamental ways people approach life, and once you see them you can't unsee them. I call them game thinking, merit thinking, and present thinking. None of them are villains. None of them are heroes. They're just lenses, and most of us carry more than one.
 
-Game thinking sees the world as winning and losing, where score as represented as power or net worth. This explains how we have financialization where capitalism is extractive and not productive.
+Game thinkers see the world as a scoreboard. Power, net worth, influence — these are the numbers that matter. It's not necessarily malicious, it's just how they're wired. The problem is when game thinking scales up — when it runs economies and governments. That's how you get systems that extract value instead of create it. Winning becomes the point, not building anything worth winning.
 
-Merit thinking is where we see values in skills and knowledge, but this also made us value worth which leads to tribalism. We reject the game thinkers because they didnt earn it, we look down on the present thinkers because they didnt plan.
+Merit thinkers believe in earned value — skills, knowledge, expertise. There's a lot of good in that. But merit thinking has a shadow side too. It quietly builds hierarchies. Merit thinkers look down on game thinkers for not earning it, and look down on present thinkers for not planning. It can tip into gatekeeping without even noticing. And present thinkers? They live day to day, surviving each moment as it comes. Long term planning feels abstract when anything could happen between now and then. But here's the thing — when their needs are met, present thinkers are often the most generous people in the room. No calculation, no investment logic. Just giving.
 
-And last is the present thinkers, they live day to day surviving each. They dont think about the future and investments because anything could happen between now and them. But when their needs are met they can be the most charitable person giving their time and effort for free.
+💡 Idea by me, prose by Claude (Anthropic)
+
+#Philosophy #GameThinking #MeritThinking #HumanBehavior #Perspective
