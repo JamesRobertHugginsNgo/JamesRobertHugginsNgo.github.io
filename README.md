@@ -10,6 +10,11 @@ When I'm not writing or coding I'm thinking with AI, walking, or reading comics.
 
 ## Blog
 
+### July 2, 2026
+
+- [Stop Planning, Start Publishing: The Just-in-Time Blogging Method](blog/2026-07-01-13-53-blogging-strategy.md)  
+03:11 PM
+
 ### June 28, 2026
 
 - [How To Fix The Matrix](blog/2026-06-28-04-14-fix-matrix.md)  
