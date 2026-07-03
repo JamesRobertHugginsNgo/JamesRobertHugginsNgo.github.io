@@ -114,8 +114,6 @@ for (const file of files) {
 		const post = {
 			title,
 			filePath: path.relative(cwd, filePath),
-			modifiedOn,
-			commitedOn,
 			date: commitedOn ?? modifiedOn
 		};
 		posts.push(post);
@@ -126,16 +124,37 @@ for (const file of files) {
 	}
 }
 
-const list = posts
+const sortedPosts = posts
 	.sort(({ date: dateA }, { date: dateB }) => {
 		return dateB - dateA;
-	})
-	.map(({ title, filePath, date }) => {
-		return `- [${title}](${filePath})  \n${date.toLocaleString('en-US', { timeZone: 'America/Toronto' })}`;
-	})
-	.join('\n');
+	});
+
+const groups = {};
+for (const post of sortedPosts) {
+	const { title, filePath, date } = post;
+
+	const key = date.toLocaleString('en-CA', {
+		timeZone: 'America/Toronto',
+		year: 'numeric',
+		month: 'long',
+		day: '2-digit'
+	});
+	if (groups[key] == null) {
+		groups[key] = [];
+	}
+
+	const localDate = date.toLocaleString('en-US', { timeZone: 'America/Toronto' });
+	const item = `- [${title}](${filePath})  \n${localDate}`;
+	groups[key].push(item);
+}
+
+console.log(groups);
+const list = [];
+for (const key in groups) {
+	list.push(`### ${key}`, '', ...groups[key], '');
+}
 
 const filename = `post-list-${buildDateStamp(new Date())}.md`;
 const outputPath = path.join(process.cwd(), filename);
-fs.writeFileSync(outputPath, list, 'utf8');
+fs.writeFileSync(outputPath, list.join('\n'), 'utf8');
 console.log(`Created: ${outputPath}`);
