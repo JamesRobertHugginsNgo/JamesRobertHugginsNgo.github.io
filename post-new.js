@@ -40,13 +40,7 @@ if (fs.existsSync(outputPath)) {
 }
 
 const isoDate = new Date().toISOString();
-const frontmatter = `<!-- @metadata yaml
-title: "${title.replace(/"/g, '\\"')}"
-date: ${now.toISOString()}
--->
-
-# ${title}
-`;
+const frontmatter = `# ${title}`;
 
 fs.writeFileSync(outputPath, frontmatter, 'utf8');
 console.log(`Created: ${outputPath}`);
