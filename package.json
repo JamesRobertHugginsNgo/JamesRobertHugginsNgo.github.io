@@ -12,5 +12,6 @@
 		"email": "jamesroberthugginsngo@gmail.com",
 		"url": "https://jamesroberthugginsngo.github.io"
 	},
-	"license": "MIT"
+	"license": "MIT",
+	"type": "module"
 }
