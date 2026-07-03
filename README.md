@@ -10,6 +10,13 @@ When I'm not writing or coding I'm thinking with AI, walking, or reading comics.
 
 ## Blog
 
+### July 03, 2026
+
+- [Volume](blog/2026-06-28-03-26-volume.md)  
+7/3/2026, 11:05:54 AM
+- [How To Fix The Matrix](blog/2026-06-28-04-14-fix-matrix.md)  
+7/3/2026, 11:05:54 AM
+
 ### July 02, 2026
 
 - [Stop Planning, Start Publishing: The Just-in-Time Blogging Method](blog/2026-07-01-13-53-blogging-strategy.md)  
@@ -17,10 +24,6 @@ When I'm not writing or coding I'm thinking with AI, walking, or reading comics.
 
 ### June 28, 2026
 
-- [Volume](blog/2026-06-28-03-26-volume.md)  
-6/28/2026, 4:59:35 AM
-- [How To Fix The Matrix](blog/2026-06-28-04-14-fix-matrix.md)  
-6/28/2026, 4:59:35 AM
 - [How to Fix the Matrix: The Battery Was Always a Lie](blog/2026-06-28-04-19-fix-matrix-battery.md)  
 6/28/2026, 4:24:47 AM
 - [How to Fix the Matrix: Faith, Doubt, and Free Choice](blog/2026-06-28-04-22-fix-matrix-faith-doubt-choice.md)  
