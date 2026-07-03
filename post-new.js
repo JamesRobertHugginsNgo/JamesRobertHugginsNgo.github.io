@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-function buildDateStamp(date) {
+function makeTimestampInfix(date) {
 	const yyyy = date.getFullYear();
 	const mm = String(date.getMonth() + 1).padStart(2, '0');
 	const dd = String(date.getDate()).padStart(2, '0');
@@ -22,16 +22,15 @@ function slugify(text) {
 const args = process.argv.slice(2);
 
 if (args.length === 0) {
-	console.error('Usage: node post-new.js <Post Title Words...>');
+	console.error('Usage: node post-new.js <Post Title>');
 	process.exit(1);
 }
 
 const now = new Date();
-const dateStamp = buildDateStamp(now);
+const timestamp = makeTimestampInfix(now);
 const title = args.join(' ');
 const slug = slugify(title);
-const filename = `${dateStamp}-${slug}.md`;
-
+const filename = `${timestamp}-${slug}.md`;
 const outputPath = path.join(process.cwd(), filename);
 
 if (fs.existsSync(outputPath)) {
@@ -39,14 +38,11 @@ if (fs.existsSync(outputPath)) {
 	process.exit(1);
 }
 
-const isoDate = new Date().toISOString();
-const frontmatter = `<!-- @metadata yaml
-title: "${title.replace(/"/g, '\\"')}"
-date: ${now.toISOString()}
--->
+const content = `<p align="center"><img src="" alt="" width="600" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"></p>
+<br>
 
 # ${title}
 `;
 
-fs.writeFileSync(outputPath, frontmatter, 'utf8');
+fs.writeFileSync(outputPath, content, 'utf8');
 console.log(`Created: ${outputPath}`);
