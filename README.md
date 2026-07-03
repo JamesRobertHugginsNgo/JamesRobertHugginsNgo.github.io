@@ -10,7 +10,7 @@ When I'm not writing or coding I'm thinking with AI, walking, or reading comics.
 
 ## Blog
 
-### July 7, 2026
+### July 02, 2026
 
 - [Stop Planning, Start Publishing: The Just-in-Time Blogging Method](blog/2026-07-01-13-53-blogging-strategy.md)  
 7/2/2026, 3:11:08 PM
