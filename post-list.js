@@ -4,11 +4,15 @@ import path from 'node:path';
 import process from 'node:process';
 
 async function* markdownHeaders(stream) {
-	let line = [];
+	let line = '';
 	let isInvalidLine = false;
 
+	const decoder = new TextDecoder();
+
 	for await (const chunk of stream) {
-		for (const char of chunk) {
+		const textChunk = typeof chunk === 'string' ? chunk : decoder.decode(chunk, { stream: true });
+
+		for (const char of textChunk) {
 			if (char === '\n') {
 				if (line.length === 0) {
 					isInvalidLine = true;
@@ -19,8 +23,8 @@ async function* markdownHeaders(stream) {
 					continue;
 				}
 
-				yield line.join('');
-				line = [];
+				yield line;
+				line = '';
 				continue;
 			}
 
@@ -38,15 +42,15 @@ async function* markdownHeaders(stream) {
 				}
 			}
 
-			line.push(char);
+			line += char;
 		}
 	}
 	if (line.length > 0) {
-		yield line.join('');
+		yield line;
 	}
 }
 
-function buildDateStamp(date) {
+function makeTimestampInfix(date) {
 	const yyyy = date.getFullYear();
 	const mm = String(date.getMonth()).padStart(2, '0');
 	const dd = String(date.getDate()).padStart(2, '0');
@@ -154,7 +158,8 @@ for (const key in groups) {
 	list.push(`### ${key}`, '', ...groups[key], '');
 }
 
-const filename = `post-list-${buildDateStamp(new Date())}.md`;
+const timestamp = makeTimestampInfix(new Date());
+const filename = `post-list-${timestamp}.md`;
 const outputPath = path.join(process.cwd(), filename);
 fs.writeFileSync(outputPath, list.join('\n'), 'utf8');
 console.log(`Created: ${outputPath}`);
