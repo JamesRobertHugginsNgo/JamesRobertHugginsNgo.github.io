@@ -3,8 +3,6 @@
 
 # James Robert Huggins Ngo
 
-## About
-
 I am a professional web developer, an aspiring writer, and a systems thinker. I like finding the connections between things that don't seem related at first — and then writing about what I find.
 
 This blog is where my ideas live. You'll find thoughts on web technologies and implementations, world building and short stories, fixing existing films, megastructures and innovative transportation systems, philosophies, and the occasional idea about how work could be structured differently.
