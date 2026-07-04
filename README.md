@@ -1,12 +1,15 @@
-# James Robert Huggins Ngo
+<p align="center"><img src="./README.jpg" alt="" width="600" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);"></p>
+<br>
 
-## About
+# James Robert Huggins Ngo
 
 I am a professional web developer, an aspiring writer, and a systems thinker. I like finding the connections between things that don't seem related at first — and then writing about what I find.
 
 This blog is where my ideas live. You'll find thoughts on web technologies and implementations, world building and short stories, fixing existing films, megastructures and innovative transportation systems, philosophies, and the occasional idea about how work could be structured differently.
 
 When I'm not writing or coding I'm thinking with AI, walking, or reading comics.
+
+💡 Idea by me, prose by Claude (Anthropic), Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Volodymyr Hryshchenko</a> on <a href="https://unsplash.com/photos/3x3-rubiks-cube-toy-inI8GnmS190?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Blog
 
