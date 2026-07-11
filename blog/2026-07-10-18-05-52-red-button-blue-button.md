@@ -6,4 +6,4 @@
 __The Setup:__ Everyone in the world must cast a private vote by pressing either a red button or a blue button. __If more than 50% of people press the blue button:__ Everyone survives, regardless of what they chose.
 __If less than 50% of people press the blue button:__ Only the people who pressed the red button survive.
 
-I would press the blue button. Its not due to the lack of self preservation and its not due to morality consideration. I choose the blue button because if blue wins the world will have atleast greater than 50% of people who looks out for each other, and if red wins the world is left with 100% of self serving people as the new reality.
+I’d pick the blue button. It’s not about being self-preserving or moral. I’m choosing blue because if blue wins, we’ll have at least 50 per cent of people looking out for each other. If red wins, we’ll have 100 per cent self-serving people as the new reality.
